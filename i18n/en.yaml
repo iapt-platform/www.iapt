@@ -1,0 +1,30 @@
+- id: blogTitle
+  translation: 最新推文
+- id: readMore
+  translation: 阅读
+- id: viewAllPost
+  translation: 全部推文
+- id: share
+  translation: 分享
+- id: aboutAuthor
+  translation: 关于作者
+- id: authorsPosts
+  translation: Author's posts
+- id: all
+  translation: All
+- id: about
+  translation: About Us
+- id: services
+  translation: Service
+- id: portfolio
+  translation: Portfolio
+- id: team
+  translation: Team
+- id: pricing
+  translation: Pricing
+- id: blog
+  translation: Blog
+- id: contact
+  translation: Contact
+- id: themefisher
+  translation: Themefisher

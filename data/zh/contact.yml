@@ -1,0 +1,31 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : 联络我们
+  subtitle : 详细联系方式
+  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+
+  # Contact details
+  contact_list:
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
+      
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "电话: +86-31-000-000"
+      
+    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
+      info : "传真: +880-31-000-000"
+      
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "电子邮件: info@iapt.com"
+
+
+  # Contact form
+  contact_form:
+    enable : true
+    form_action : "#" #contact form works with https://formspree.io
+    name : "名字"
+    email : "电子邮件"
+    subject : "主题"
+    message : "内容"
+    submit : "提交"
