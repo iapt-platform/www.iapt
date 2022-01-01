@@ -1,5 +1,5 @@
 ---
-title: "Mark Dinn"
+title: "U Kundhadana Sayadaw"
 image: ""
 email: "email2@example.org"
 social:

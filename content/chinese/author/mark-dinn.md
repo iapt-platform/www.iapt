@@ -1,5 +1,5 @@
 ---
-title: "Mark Dinn"
+title: "悟贡西亚多"
 image: ""
 email: "email2@example.org"
 social:
