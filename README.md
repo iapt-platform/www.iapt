@@ -130,3 +130,12 @@ description : "This is meta description"
 ### 联系方式
 
 data\zh\contact.yml
+
+# 工作流程
+
+- fork `https://github.com/iapt-platform/www.iapt`到你自己的仓库。
+- clone `https://github.com/<你的账号>/www.iapt`到你自己的本地硬盘。
+- 修改
+- 提交到你的仓库
+- 提交 pull request 到`https://github.com/iapt-platform/www.iapt`
+- 管理员审核后merge到main
