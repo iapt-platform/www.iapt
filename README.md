@@ -1,5 +1,7 @@
 # IAPT 官方网站
 
+![homepage](static/images/readme/example.jpg)
+
 ## 概述
 
 这个库是IAPT官方网站的数据。使用[hugo](https://gohugo.io/)作为cms。库中包括所有图片，UI文字，博客文章。以及主题模版。[hugo中文文档](https://www.gohugo.org/doc/).
