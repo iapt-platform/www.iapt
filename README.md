@@ -36,7 +36,10 @@ hugo的安装请参见官网[安装说明](https://gohugo.io/getting-started/ins
 fork `https://github.com/iapt-platform/www.iapt`到你自己的仓库。
 在hugo目录下运行
 ```
-git clone https://github.com/<your repo>/www.iapt/.git
+git clone https://github.com/<your repo>/www.iapt.git
+cd www.iapt
+git pull
+git submodule update --init --recursive
 ```
 git 会生成www.iapt目录
 
