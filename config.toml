@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://www.iapt.org"
+baseURL = "https://www.iapt.cc"
 title = "IAPT"
 theme = "meghna-hugo"
 # post pagination
