@@ -20,21 +20,14 @@
 ### hugo
 hugo的安装请参见官网[安装说明](https://gohugo.io/getting-started/installing/)。这里只是一个简要介绍。
 
-1. 在[程序包下载页面](https://github.com/gohugoio/hugo/releases)找到对应你的操作系统的安装包。例如：windows 10 请下载`hugo_0.91.2_Windows-64bit.zip`(你看到的版本号可能与这个不同)
-2. 将压缩包里的文件解压缩到你的硬盘上的某个目录。例如： `d:/hugo` 。目录下应该有一个hugo.exe文件。
-3. 设置环境变量
-  - windows
-    - 设置->搜‘编辑环境变量’
-	- ‘高级’->环境变量
-	- ‘Path’->编辑
-	- ‘新建’->输入你的hugo.exe所在的目录。例如： `d:/hugo` 
-	- 重启电脑
-4. 测试hugo 是否正常安装。在命令行(windows输入cmd)里运行`hugo version`。能够显示版本号就是安装成功了。
+1. 在[程序包下载页面](https://github.com/gohugoio/hugo/releases)找到对应你的操作系统的安装包。例如：windows 10 请下载`hugo_0.91.2_Windows-64bit.zip`(你看到的版本号可能与这个不同)最高版本有可能没有windows版。请查找低版本。
+2. 将压缩包里的文件hugo.exe解压缩到你的硬盘上的某个目录。例如： `c:/` 。
+3. 测试hugo 是否正常安装。在命令行(windows输入cmd)里运行`c:/hugo.exe version`。能够显示版本号就是安装成功了。
 
 ### 克隆git仓库
 
 fork `https://github.com/iapt-platform/www.iapt`到你自己的仓库。
-在hugo目录下运行
+在www.iapt目录下运行
 ```
 git clone https://github.com/<your repo>/www.iapt.git
 cd www.iapt
@@ -43,9 +36,11 @@ git submodule update --init --recursive
 ```
 git 会生成www.iapt目录
 
+
+
 ### 运行
 
-在`www.iapt`目录下运行命令 `hugo server -D`
+在`www.iapt`目录下运行命令 `c:/hugo.exe server -D`
 
 打开浏览器 输入：`http://localhost:1313/`。应该显示网站页面。
 
@@ -67,6 +62,8 @@ git 会生成www.iapt目录
 			- clint `专家照片`
 			- team `项目图片`
 	- config.toml `首页标题，按钮文字设置`
+	- layouts `版面设计`
+  	  - index.html `首页布局`
 
 ## 网站设置
 
