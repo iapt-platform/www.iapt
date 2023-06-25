@@ -1,16 +1,16 @@
 ############################### team ############################
 team:
   enable : true
-  title : 我们的项目
+  title : 专家
   detail : 详情
   team_member :
     # team member loop
-    - name : 去向涅槃之道
-      image_webp : images/team/team-1a.jpg
-      image : images/team/team-1a.jpg
+    - name : 火智尊者
+      image_webp : images/team/tejanyana.jpg
+      image : images/team/tejanyana.jpg
       designation : 进行中
       detail : 详情
-      content : 由帕奥西亚多编纂的此书，以《大念处经》为蓝本。详细阐述了如何禅修直到证悟涅槃的方法。
+      content : Alinkara in 2011 at Myasekkya Monestry, Sagaing Township Dhammasariya in 2020 at Thungetaw Monestry, Tada Oo Township Good at Pali & Myanmar Language
       link : "project/ngp/"
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
@@ -23,7 +23,7 @@ team:
           link : "#"
         
     # team member loop
-    - name : 巴利三藏翻译工程
+    - name : 悟贡西亚多
       image_webp : images/team/team-2.webp
       image : images/team/team-2.jpg
       designation : Manager

@@ -90,7 +90,7 @@ weight = 4
 
 
 [[Languages.zh.menu.main]]
-name = "博文"
+name = "下载"
 url = "#blog"
 weight = 6
 
