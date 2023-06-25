@@ -1,7 +1,7 @@
 #################################### portfolio ###############################
 portfolio:
   enable : true
-  title : Our Works
+  title : 我们的项目
   portfolio_item :
     # portfolio item loop
     - name : Tag Design

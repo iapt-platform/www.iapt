@@ -79,11 +79,15 @@ config.toml
 
 ### 题头
 
+**导航菜单**
+
 data\zh\banner.yml
+
+**题头图**
 
 sttic/images/backgrounds/hero-area.jpg
 
-### 关于我们
+### 愿景
 
 data\zh\about.yml
 
@@ -91,17 +95,22 @@ data\zh\about.yml
 
 data\zh\feature.yml
 
-### 项目
+## 项目
+
+data\zh\portfolio.yml
+data\en\portfolio.yml
+
+### 专家
 
 data\zh\team.yml
 
 项目链接的文章：`content\chinese\project`
 
-### 专家
+### 用户评价
 
 content\chinese\author
 
-### 博文
+### 下载
 
 content\chinese\blog
 
