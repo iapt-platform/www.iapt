@@ -1,9 +1,9 @@
 - id: blogTitle
   translation: 下载
 - id: readMore
-  translation: 阅读
+  translation: 详情
 - id: viewAllPost
-  translation: 查看所有文章
+  translation: 查看所有下载
 - id: share
   translation: 分享
 - id: aboutAuthor

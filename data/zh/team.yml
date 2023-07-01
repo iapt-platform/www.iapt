@@ -4,6 +4,15 @@ team:
   title : 专家
   detail : 详情
   team_member :
+      # team member loop
+    - name : 悟贡西亚多
+      image_webp : images/team/u-kun-sayadaw.jpg
+      image : images/team/u-kun-sayadaw.jpg
+      designation : U Kuṇḍadhāna Sayadaw
+      detail : 详情
+      link : "project/tipitaka/"
+      content : 1991年，于缅甸毛淡棉帕奥禅林在帕奥西亚多座下达上。在帕奥禅林用英语教授过外国禅修者巴利文法与戒律。为帕奥西亚多的著作《趣向涅槃之道》的主要编辑之一。担任帕奥Dawei分院住持至今。
+      
     # team member loop
     - name : 火智尊者
       image_webp : images/team/tejanyana.jpg
@@ -22,26 +31,9 @@ team:
         - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
           link : "#"
         
+  
     # team member loop
-    - name : 悟贡西亚多
-      image_webp : images/team/u-kun-sayadaw.jpg
-      image : images/team/u-kun-sayadaw.jpg
-      designation : U Kuṇḍadhāna Sayadaw
-      detail : 详情
-      link : "project/tipitaka/"
-      content : 1991年，于缅甸毛淡棉帕奥禅林在帕奥西亚多座下达上。在帕奥禅林用英语教授过外国禅修者巴利文法与戒律。为帕奥西亚多的著作《趣向涅槃之道》的主要编辑之一。担任帕奥Dawei分院住持至今。
-      social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        
-    # team member loop
-    - name : 巴利语教育计划
+    - name : 见法西亚多
       image_webp : images/team/team-3.webp
       image : images/team/team-3.jpg
       designation : Web Developer

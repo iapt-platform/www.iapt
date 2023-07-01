@@ -77,17 +77,21 @@ url = "#about"
 weight = 1
 
 [[Languages.zh.menu.main]]
-name = "目标"
-url = "#services"
+name = "关于"
+url = "#about"
 weight = 2
 
 
 
 [[Languages.zh.menu.main]]
 name = "项目"
-url = "#team"
+url = "#portfolio"
 weight = 4
 
+[[Languages.zh.menu.main]]
+name = "专家"
+url = "#team"
+weight = 5
 
 [[Languages.zh.menu.main]]
 name = "下载"
