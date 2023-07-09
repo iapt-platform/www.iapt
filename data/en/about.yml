@@ -4,14 +4,22 @@ about:
   title : About Us
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : Full Translation of Tipitaka
+    content : We hope to translate the complete Pali Tipitaka, aṭṭhakathā,ṭīkā and nissaya into Chinese.
 
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-
+    title : Tipitaka dictionary.
+    content : We hope to compile a detailed pali-chinese dictionary with the help of the data deposited by users.
 
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : Platform
+    content : We will continue to develop and maintain the wikipali platform and develop new features to make it more and more convenient for Pali translation and research.
+
+  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+    title : Courses
+    content : With the help of the translated Tipitaka, we hope to invite Sayadaws to give dhammatalks to help bring the doctrine of the Tipitaka into the lives of more and more people.
+
+  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+    title : Experts
+    content : We hope that in the process of the Tipitaka-translating, we will cultivate a group of experts who master Pali, Burmese, Thai, and Sinhala.
+    

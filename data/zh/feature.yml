@@ -3,25 +3,30 @@ feature:
   enable : true
   image : images/about/kosalla.jpg
   image_webp : images/about/kosalla.jpg
-  title : 我们的工作涵盖.
+  title : 我们的目标
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
   feature_item : 
       # feature item loop
-    - title : 巴利三藏翻译与出版
+    - title : 翻译一套三藏
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : 我们希望把完整的巴利三藏、义注、复注、nissaya都翻译成为中文。
       
       # feature item loop
-    - title : 巴利语文献语料库
+    - title : 整理一本词典
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : 我们希望借助沉淀下来的数据，整理一套完整的巴中字典。这项工作将在整个三藏翻译的过程中逐渐完成。
 
       # feature item loop
-    - title : 巴利语教育
+    - title : 开发一个平台
       icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : 我们会持续开发和维护wikipali平台，并不断发展新的功能，令其越来越方便与巴利翻译和研究。
       
       # feature item loop
-    - title : 网络化学习平台
+    - title : 讲授一批课程
       icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : 我们希望借助翻译的三藏，邀请尊者们进行开示，帮助三藏的法义走进更多人的生活。
+
+      # feature item loop
+    - title : 培养一群人才
+      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      content : 我们希望在翻译三藏的过程中，培养起来一批掌握巴利、缅语、泰语、辛哈拉语的人才，这些人精通语言、精通教理，为佛教的发展贡献力量。

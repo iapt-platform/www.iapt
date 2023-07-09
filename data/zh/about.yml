@@ -4,12 +4,17 @@ about:
   title : 关于我们
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : 宗旨
-    content : 希望在传统和现代、老师与学生、翻译者与读者之间假设桥梁，让全世界所有族群都可以享受高品质的圣典教育，最终实现圣典教育全球化。
-
+    title : 翻译一套三藏
+    content : 我们希望把完整的巴利三藏、义注、复注、nissaya都翻译成为中文。
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : 使命
-    content : 国际巴利三藏学院致力于巴利语文献语料库的建立，相关参考文献的电子化，巴利文献的整理翻译及研究，并基于种种项目培养相关人才，实现产学研一体化发展。
+    title : 整理一本词典
+    content : 我们希望借助沉淀下来的数据，整理一套完整的巴中字典。这项工作将在整个三藏翻译的过程中逐渐完成。
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : 发展方向
-    content : 为了能够使更多的外国学生有机会接受高品质的传统圣典教育，我们将与现有的佛教教育机构合作，共同促进圣典教育的国际化。
+    title : 开发一个平台
+    content : 我们会持续开发和维护wikipali平台，并不断发展新的功能，令其越来越方便与巴利翻译和研究。
+  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+    title : 讲授一批课程
+    content : 我们希望借助翻译的三藏，邀请尊者们进行开示，帮助三藏的法义走进更多人的生活。
+  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+    title : 培养一群人才
+    content : 我们希望在翻译三藏的过程中，培养起来一批掌握巴利、缅语、泰语、辛哈拉语的人才，这些人精通语言、精通教理，为佛教的发展贡献力量。

@@ -5,7 +5,7 @@ banner:
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "International Of Pali Tipitaka Acatemy"
-  content : "国际巴利三藏学院致力于巴利语文献语料库的建立，相关参考文献的电子化，巴利文献的整理翻译及研究，并基于种种项目培养相关人才，实现产学研一体化发展。"
+  content : "A translation group established by Theravada Bhikkhus. We have developed a website wikipali and use it as a tool for teaching Pali , and organizing translation and research work on tipitaka, Aṭṭhakathā and ṭīkā."
   button:
     enable : true
     label : "Explore Us"
