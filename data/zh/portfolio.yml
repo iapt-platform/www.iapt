@@ -4,68 +4,47 @@ portfolio:
   title : 我们的项目
   portfolio_item :
     # portfolio item loop
-    - name : 法句义注
-      image : images/project/portfolio-1.jpg
-      image_webp : images/project/portfolio-1.webp
-      categories : ["三藏翻译"]
-      content : 《经藏·小部·法句义注》全部二十六品的译文。首次以中文呈现。
-      link : "/project/dpa/"
-      
-    # portfolio item loop
-    - name : 清静之道
+    - name : 《清净之道·慧地品》及注释汉译
       image : images/project/portfolio-2.jpg
       image_webp : images/project/portfolio-2.webp
       categories : ["三藏翻译"]
-      content : 《清静之道》的重译本。包含该书的复注《大疏钞》对应的译文。
-      link : "/project/visuddhimagga/"
+      content : 《古源尊者开设摄缘系列课程，为了配合课程，提供更多内容，尝试教理研究、翻译与课程的结合。
+      link : "/project/visuddhimagga/"  
+
+    # portfolio item loop
+    - name : 《法句义注》及依词释汉译
+      image : images/project/portfolio-1.jpg
+      image_webp : images/project/portfolio-1.webp
+      categories : ["三藏翻译"]
+      content : 将完整的法句故事及偈颂解释介绍给中文读者
+      link : "/project/dpa/"
+      
+
       
     # portfolio item loop
-    - name : Clock Product
+    - name : 《趣向涅槃之道·入出息念章》汉译
       image : images/project/portfolio-3.jpg
       image_webp : images/project/portfolio-3.webp
       categories : ["三藏翻译"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+      content : 本书为帕奥禅师系统介绍止观禅法的代表作。
+      link : "/project/ngp/"
       
     # portfolio item loop
-    - name : 巴利语初级
+    - name : 巴利语学习班
       image : images/project/portfolio-4.jpg
       image_webp : images/project/portfolio-4.webp
-      categories : ["语言培训"]
-      content : 零基础入门的巴利语课程。基本名词，动词的格位变化。初级句法。
-      link : "#"
+      categories : ["译员培训"]
+      content : 零基础入门的巴利语课程。到义注复注的阅读。
+      link : "/project/pali-course/"
       
     # portfolio item loop
-    - name : 巴利语中级
+    - name : 缅语学习班
       image : images/project/portfolio-5.jpg
       image_webp : images/project/portfolio-5.webp
-      categories : ["语言培训"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : 巴利语高级
-      image : images/project/portfolio-6.jpg
-      image_webp : images/project/portfolio-6.webp
-      categories : ["语言培训"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : 缅语初级
-      image : images/project/portfolio-7.jpg
-      image_webp : images/project/portfolio-7.webp
-      categories : ["语言培训"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Stationary Design
-      image : images/project/portfolio-8.jpg
-      image_webp : images/project/portfolio-8.webp
-      categories : ["圣典教育"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+      categories : ["译员培训"]
+      content : 从零基础入门到佛法资料翻译。分为初级、中级和高级。
+      link : "/project/burmese-course/"
+
       
     # portfolio item loop
     - name : wikipali在线平台
@@ -73,7 +52,7 @@ portfolio:
       image_webp : images/project/portfolio-2.webp
       categories : ["软件开发"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+      link : "/project/wikipali-web/"
 
     # portfolio item loop
     - name : wikipali APP
@@ -81,7 +60,7 @@ portfolio:
       image_webp : images/project/portfolio-2.webp
       categories : ["软件开发"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+      link : "/project/wikipali-app"
 
     # portfolio item loop
     - name : Nissaya 数字化

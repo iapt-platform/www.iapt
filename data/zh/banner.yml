@@ -5,7 +5,7 @@ banner:
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "国际巴利三藏学院"
-  content : "国际巴利三藏学院致力于巴利语文献语料库的建立，相关参考文献的电子化，巴利文献的整理翻译及研究，并基于种种项目培养相关人才，实现产学研一体化发展。"
+  content : "一个由上座部比库建立的翻译平台。我们开发了一个wikipali网站，并以此为工具，进行巴利语教学，组织进行三藏和义注复注的翻译和研究工作。"
   button:
     enable : true
     label : "了解我们"
