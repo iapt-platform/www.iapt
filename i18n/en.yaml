@@ -1,13 +1,13 @@
 - id: blogTitle
-  translation: 最新推文
+  translation: Download
 - id: readMore
-  translation: 阅读
+  translation: Read More
 - id: viewAllPost
-  translation: 全部推文
+  translation: View All
 - id: share
-  translation: 分享
+  translation: share
 - id: aboutAuthor
-  translation: 关于作者
+  translation: About Author
 - id: authorsPosts
   translation: Author's posts
 - id: all

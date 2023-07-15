@@ -51,7 +51,7 @@ portfolio:
       image : images/project/portfolio-2.jpg
       image_webp : images/project/portfolio-2.webp
       categories : ["软件开发"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content : 全套巴利语学习和翻译工具，包含协作在内的在线工作流。
       link : "/project/wikipali-web/"
 
     # portfolio item loop
@@ -59,7 +59,7 @@ portfolio:
       image : images/project/portfolio-2.jpg
       image_webp : images/project/portfolio-2.webp
       categories : ["软件开发"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content : 手机巴利三藏原文与译文阅读工具
       link : "/project/wikipali-app"
 
     # portfolio item loop
@@ -67,5 +67,5 @@ portfolio:
       image : images/project/portfolio-2.jpg
       image_webp : images/project/portfolio-2.webp
       categories : ["软件开发"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content : 将缅文版逐词解析数字化，并与巴利原文逐句对照。
       link : "https://project.wikipali.org/nissaya"
