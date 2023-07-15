@@ -10,7 +10,7 @@ team:
       image : images/team/u-kun-sayadaw.jpg
       designation : U Kuṇḍadhāna Sayadaw
       detail : 详情
-      link : "project/tipitaka/"
+      link : "#"
       content : 1991年，于缅甸毛淡棉帕奥禅林在帕奥西亚多座下达上。在帕奥禅林用英语教授过外国禅修者巴利文法与戒律。为帕奥西亚多的著作《趣向涅槃之道》的主要编辑之一。担任帕奥德威分院住持至今。
       
     # team member loop
@@ -20,33 +20,6 @@ team:
       designation : Tejanyana Lankara
       detail : 详情
       content : Alinkara in 2011 at Myasekkya Monestry, Sagaing Township Dhammasariya in 2020 at Thungetaw Monestry, Tada Oo Township Good at Pali & Myanmar Language. Live in Naung Cho Township, Northern Shan State.
-      link : "project/ngp/"
-      social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+      link : "#"
         
-  
-    # team member loop
-    - name : 见法西亚多
-      image_webp : images/team/team-3.webp
-      image : images/team/team-3.jpg
-      designation : Web Developer
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-      detail : 详情
-      link : "project/pali/"
-      social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
         
