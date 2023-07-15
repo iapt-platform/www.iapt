@@ -4,7 +4,7 @@ feature:
   image : images/about/kosalla.jpg
   image_webp : images/about/kosalla.jpg
   title : 我们的目标
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  content : ""
   feature_item : 
       # feature item loop
     - title : 翻译一套三藏

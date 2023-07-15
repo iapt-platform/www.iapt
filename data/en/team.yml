@@ -1,24 +1,24 @@
 ############################### team ############################
 team:
   enable : true
-  title : 专家
-  detail : 详情
+  title : Consultant
+  detail : detail
   team_member :
       # team member loop
-    - name : 悟贡西亚多
+    - name : U Kuṇḍadhāna Sayadaw
       image_webp : images/team/u-kun-sayadaw.jpg
       image : images/team/u-kun-sayadaw.jpg
       designation : U Kuṇḍadhāna Sayadaw
-      detail : 详情
+      detail : detail
       link : "#"
       content : 1991年，于缅甸毛淡棉帕奥禅林在帕奥西亚多座下达上。在帕奥禅林用英语教授过外国禅修者巴利文法与戒律。为帕奥西亚多的著作《趣向涅槃之道》的主要编辑之一。担任帕奥德威分院住持至今。
       
     # team member loop
-    - name : 火智尊者
+    - name : Tejanyana Lankara
       image_webp : images/team/tejanyana.jpg
       image : images/team/tejanyana.jpg
       designation : Tejanyana Lankara
-      detail : 详情
+      detail : detail
       content : Alinkara in 2011 at Myasekkya Monestry, Sagaing Township Dhammasariya in 2020 at Thungetaw Monestry, Tada Oo Township Good at Pali & Myanmar Language. Live in Naung Cho Township, Northern Shan State.
       link : "#"
         
