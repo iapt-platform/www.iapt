@@ -1,84 +1,69 @@
 #################################### portfolio ###############################
 portfolio:
   enable : true
-  title : Our Projects
+  title : Projects
   portfolio_item :
     # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-1.jpg
-      image_webp : images/portfolio/portfolio-1.webp
+    - name : Visuddhimagga·Paññābhūminiddesa
+      image : images/project/portfolio-2.jpg
+      image_webp : images/project/portfolio-2.webp
       categories : ["Translation"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "https://themefisher.com"
-      
-    # portfolio item loop
-    - name : Sound system
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["Translation"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : ""
-      
-    # portfolio item loop
-    - name : Clock Product
-      image : images/portfolio/portfolio-3.jpg
-      image_webp : images/portfolio/portfolio-3.webp
-      categories : ["Translation"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Bottol Label
-      image : images/portfolio/portfolio-4.jpg
-      image_webp : images/portfolio/portfolio-4.webp
-      categories : ["Translation", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Shopping Bag
-      image : images/portfolio/portfolio-5.jpg
-      image_webp : images/portfolio/portfolio-5.webp
-      categories : ["Language Training"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-6.jpg
-      image_webp : images/portfolio/portfolio-6.webp
-      categories : ["Language Training"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Business Card
-      image : images/portfolio/portfolio-7.jpg
-      image_webp : images/portfolio/portfolio-7.webp
-      categories : ["Language Training"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Stationary Design
-      image : images/portfolio/portfolio-8.jpg
-      image_webp : images/portfolio/portfolio-8.webp
-      categories : ["Language Training"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["Education"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+      content : In order to provide more content to accompany the series of courses offered by Ven. Uttama, we attempted to combine pariyatti research, translation, and course content.
+      link : "/project/visuddhimagga/"  
 
     # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+    - name : Chinese Translation of Dhammapada aṭṭhakathā
+      image : images/project/portfolio-1.jpg
+      image_webp : images/project/portfolio-1.webp
+      categories : ["Translation"]
+      content : Translate the complete stories and verses of Dhammapada with commentary for Chinese readers has been initiated.
+      link : "/project/dpa/"
+      
+    # portfolio item loop
+    - name : Chinese Translation of "Nibbāna Gāminī Paṭipadā"
+      image : images/project/portfolio-3.jpg
+      image_webp : images/project/portfolio-3.webp
+      categories : ["Translation"]
+      content : This book is a representative work of Pa Auk Sayadaw's systematic introduction to samādhi and vipassanā meditation
+      link : "/project/ngp/"
+      
+    # portfolio item loop
+    - name : Course of Pali Language
+      image : images/project/portfolio-4.jpg
+      image_webp : images/project/portfolio-4.webp
+      categories : ["Training"]
+      content : Pali language courses for beginners. Master the reading of commentary and sub-commentary.
+      link : "/project/pali-course/"
+      
+    # portfolio item loop
+    - name : Course of Burmese
+      image : images/project/portfolio-5.jpg
+      image_webp : images/project/portfolio-5.webp
+      categories : ["Training"]
+      content : Burmese courses for beginners. Buddhist material translation. 
+      link : "/project/burmese-course/"
+
+      
+    # portfolio item loop
+    - name : wikipali Online
+      image : images/project/portfolio-2.jpg
+      image_webp : images/project/portfolio-2.webp
+      categories : ["Development"]
+      content : Pali Language Learning & Translate Platform
+      link : "/project/wikipali-web/"
+
+    # portfolio item loop
+    - name : wikipali APP
+      image : images/project/portfolio-2.jpg
+      image_webp : images/project/portfolio-2.webp
+      categories : ["Development"]
+      content : Tipitaka Reader
+      link : "/project/wikipali-app"
+
+    # portfolio item loop
+    - name : Digitalization of Nissaya
+      image : images/project/portfolio-2.jpg
+      image_webp : images/project/portfolio-2.webp
+      categories : ["Development"]
+      content : Digitize the Burmese version word by word and compare it with the original Pali text sentence by sentence.
+      link : "https://project.wikipali.org/nissaya"

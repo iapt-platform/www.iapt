@@ -8,7 +8,7 @@ portfolio:
       image : images/project/portfolio-2.jpg
       image_webp : images/project/portfolio-2.webp
       categories : ["三藏翻译"]
-      content : 《古源尊者开设摄缘系列课程，为了配合课程，提供更多内容，尝试教理研究、翻译与课程的结合。
+      content : 古源尊者开设摄缘系列课程，为了配合课程，提供更多内容，尝试教理研究、翻译与课程的结合。
       link : "/project/visuddhimagga/"  
 
     # portfolio item loop
