@@ -7,21 +7,27 @@ feature:
   content : ""
   feature_item : 
       # feature item loop
-    - title : SEO Optimized
+    - title : Full Translation of Tipitaka
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : We hope to translate the complete Pali Tipitaka, aṭṭhakathā,ṭīkā and nissaya into Chinese.
       
       # feature item loop
-    - title : Easy Customization
+    - title : Tipitaka dictionary
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : We hope to compile a detailed pali-chinese dictionary with the help of the data deposited by users. 
 
       # feature item loop
-    - title : SEO Optimized
+    - title : Platform
       icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : We will continue to develop and maintain the wikipali platform and develop new features to make it more and more convenient for Pali translation and research.
       
       # feature item loop
-    - title : Easy Customization
+    - title : Courses
       icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : With the help of the translated Tipitaka, we hope to invite Sayadaws to give dhammatalks to help bring the doctrine of the Tipitaka into the lives of more and more people.
+
+            # feature item loop
+    - title : Experts
+      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      content : We hope that in the process of the Tipitaka-translating, we will cultivate a group of experts who master Pali, Burmese, Thai, and Sinhala.
+      
